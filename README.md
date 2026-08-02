@@ -58,7 +58,7 @@ AI security scanner that catches prompt injection & LLM vulnerabilities in pull 
 
 Autonomous GitHub PR agent that reviews and patches code automatically.
 
-📈 In use by **250+ developers**
+📈 In use by **25+ developers**
 
 `GitHub API` `Automation` `LLM Agents`
 
